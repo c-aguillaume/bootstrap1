@@ -1,0 +1,31 @@
+.main_one {
+    /* display: flex; */
+    /* float: left; */
+    height: 100%;
+    background-color: azure;
+    border: 2px solid black;
+}
+
+.hero_container {
+    margin-left: 40rem;
+}
+
+
+legend {
+    border-bottom: 5px solid black;
+}
+
+.main_two {
+    display: flex;
+    justify-content: space-between;
+    /* border: 2px solid purple; */
+}
+
+
+.cancel_button {
+    float: right;
+}
+
+.setting_one {
+    width: 50%;
+}
